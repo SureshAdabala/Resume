@@ -1,0 +1,48 @@
+body {
+      font-family: Arial, sans-serif;
+      line-height: 1.5;
+      margin-left: 0px;
+      padding: 20px;
+      background: grey;
+    }
+    .container {
+        max-height: auto;
+      max-width: 842px;
+      margin: auto;
+      background: white;
+      padding: 20px;
+    }
+    h1, h2 {
+      color: #2c3e50;
+      margin-bottom: 5px;
+    }
+    h1 {
+        text-align: center;
+      font-size: 28px;
+    }
+    h2 {
+      font-size: 20px;
+      margin-top: 10px;
+      border-bottom: 2px solid grey;
+    }
+    p, li {
+      font-size: 14px;
+    }
+    #p1{
+        text-align: justify;
+    }
+    ul {
+      margin: 5px 0 15px 20px;
+    }
+    .contact {
+        text-align: center;
+      font-size: 14px;
+      margin-bottom: 15px;
+    }
+    .contact a {
+      color: #2980b9;
+      text-decoration: none;
+    }
+    .section {
+      margin-bottom: 15px;
+    }
